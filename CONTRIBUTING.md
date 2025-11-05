@@ -32,6 +32,6 @@ Keep these principles in mind when proposing or implementing changes.
 ### Clone and Build
 
 ```bash
-git clone https://github.com/<your-org>/rust-on-cart.git
+git clone https://github.com/n11kol11c/rust-on-cart.git
 cd rust-on-cart
 cargo build
