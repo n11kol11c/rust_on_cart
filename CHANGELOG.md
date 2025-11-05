@@ -19,7 +19,8 @@ and this project adheres to **[Semantic Versioning](https://semver.org/)**.
 - (placeholder) Bug fixes or stability improvements
 
 ### Removed
-- (placeholder) Deprecated or removed features
+> [!IMPORTANT]
+> (placeholder) Deprecated or removed features
 
 ---
 
