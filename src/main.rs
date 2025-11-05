@@ -1,5 +1,2 @@
-mod ...;
-
-fn main() {
-  ...
-}
+mod;
+fn main();
