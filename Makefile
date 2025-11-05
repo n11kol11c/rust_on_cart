@@ -1,0 +1,2 @@
+mainrs:
+  cargo run
