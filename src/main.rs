@@ -1,2 +1,5 @@
-use ...
-fn main() {}
+mod ...;
+
+fn main() {
+  ...
+}
