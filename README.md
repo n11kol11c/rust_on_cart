@@ -29,5 +29,3 @@
 ---
 
 <div align="center"><h1>Rust on Cart</h1></div>
-
-<p align="center"><b>Cart Framework made for Rust</b></p>
