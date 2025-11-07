@@ -1,3 +1,3 @@
 <div align="center">
-    <img src="img/rust-on-cart-logo.png" width="240" height="240" />
+    <img src="img/rrust-on-cart-logo-removebg-preview.png" width="400" height="400" />
 </div>
