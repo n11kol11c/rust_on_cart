@@ -38,7 +38,7 @@ impl Logger {
                 eprintln!("[ABORT]: {}", message);
                 std::process::exit(1);
             }
-            _ => Err(CartError::CustomError(format!("Whats that log? : '{}'", option))),
+            _ => Err(CartError::Exception(format!("Whats that log? : '{}'", option))),
         }
     }
 }
