@@ -1,4 +1,4 @@
-pub use crate::errors::error:CartError;
+pub use crate::errors::error::CartError;
 
 pub enum Colors {
   ClrWHITE(String)?
