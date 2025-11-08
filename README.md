@@ -1,4 +1,4 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/34518610-aebf-4183-9811-1f818c244443" /><div align="center">
+<div align="center">
     <img src="img/rust-on-cart-logo-removebg-preview.png" width="600" height="600" hspace="5" vspace="5"  />
 </div>
 
