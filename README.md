@@ -3,7 +3,6 @@
 </div>
 
 <p align="center">
-  <!-- Top row: repo stats -->
   <img src="https://img.shields.io/badge/Version-1.0.0-green?style=flat" alt="Version 1.0.0" />
   <a href="https://github.com/n11kol11c/rust-on-cart/blob/main/LICENSE">
     <img src="https://img.shields.io/github/license/n11kol11c/rust-on-cart?style=flat" alt="License" />
@@ -18,7 +17,6 @@
     <img src="https://img.shields.io/github/forks/n11kol11c/rust-on-cart?style=flat&color=teal&label=Forks&labelColor=black" alt="GitHub forks" />
   </a>
 
-  <!-- Bottom row: project metadata -->
   <br />
   <img src="https://img.shields.io/badge/Author-n11kol11c-blue?style=flat" alt="Author" />
   <img src="https://img.shields.io/badge/Open%20Source-Yes-darkgreen?style=flat" alt="Open Source" />
