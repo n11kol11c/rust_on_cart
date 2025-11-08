@@ -1,21 +1,21 @@
-<div align="center">
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/34518610-aebf-4183-9811-1f818c244443" /><div align="center">
     <img src="img/rust-on-cart-logo-removebg-preview.png" width="600" height="600" hspace="5" vspace="5"  />
 </div>
 
 <p align="center">
   <!-- Top row: repo stats -->
-  <img src="https://img.shields.io/badge/Version-1.0.0-green?style=plastic" alt="Version 1.0.0" />
+  <img src="https://img.shields.io/badge/Version-1.0.0-green?style=flat" alt="Version 1.0.0" />
   <a href="https://github.com/n11kol11c/rust-on-cart/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/n11kol11c/rust-on-cart?style=plastic" alt="License" />
+    <img src="https://img.shields.io/github/license/n11kol11c/rust-on-cart?style=flat" alt="License" />
   </a>
   <a href="https://github.com/n11kol11c/rust-on-cart/stargazers">
-    <img src="https://img.shields.io/github/stars/n11kol11c/rust-on-cart?style=plastic&color=yellow&label=Stars&labelColor=black" alt="GitHub stars" />
+    <img src="https://img.shields.io/github/stars/n11kol11c/rust-on-cart?style=social&color=yellow&label=Stars&labelColor=black" alt="GitHub stars" />
   </a>
   <a href="https://github.com/n11kol11c/rust-on-cart/issues">
-    <img src="https://img.shields.io/github/issues/n11kol11c/rust-on-cart?style=plastic&color=red&label=Issues&labelColor=black" alt="GitHub issues" />
+    <img src="https://img.shields.io/github/issues/n11kol11c/rust-on-cart?style=flat&color=red&label=Issues&labelColor=black" alt="GitHub issues" />
   </a>
   <a href="https://github.com/n11kol11c/rust-on-cart/network/members">
-    <img src="https://img.shields.io/github/forks/n11kol11c/rust-on-cart?style=plastic&color=teal&label=Forks&labelColor=black" alt="GitHub forks" />
+    <img src="https://img.shields.io/github/forks/n11kol11c/rust-on-cart?style=flat&color=teal&label=Forks&labelColor=black" alt="GitHub forks" />
   </a>
 
   <!-- Bottom row: project metadata -->
