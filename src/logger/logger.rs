@@ -1,13 +1,15 @@
+use std::fmt::Display;
+
 use crate::errors::error::CartError;
 
-pub enum Logger {
-    LogOk(String),
-    LogErr(String),
-    LogWarn(String),
+pub enum Logger<T: Display> {
+    LogOk(T),
+    LogErr(T),
+    LogWarn(T),
     LogAbort(i32),
 }
 
-impl Logger {
+impl<T: Display> Logger<T> {
     pub fn log(&self) -> Result<(), CartError> {
         match self {
             Logger::LogOk(msg) => {
@@ -42,7 +44,7 @@ impl Logger {
         }
     }
 
-    pub fn log_enum(log: Logger) -> Result<(), CartError> {
+    pub fn log_enum(log: Logger<T>) -> Result<(), CartError> {
         log.log()
     }
 }
