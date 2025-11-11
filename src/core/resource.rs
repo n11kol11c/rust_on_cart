@@ -1,11 +1,11 @@
 use std::collections::HashMap;
 use crate::errors::error::CartError;
 
-pub struct ResourceLoader {
+pub struct Resource {
     resources: HashMap<String, String>,
 }
 
-impl ResourceLoader {
+impl Resource {
     pub fn new() -> Self {
         Self {
             resources: HashMap::new(),
@@ -26,3 +26,4 @@ impl ResourceLoader {
         Ok(())
     }
 }
+
